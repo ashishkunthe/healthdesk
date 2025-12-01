@@ -8,7 +8,10 @@ const partnerLogos = [
 
 export function CharitableInitiatives() {
   return (
-    <div className="bg-cover bg-center py-20 px-6 md:px-16">
+    <div
+      className="bg-cover bg-center py-20 px-6 md:px-16"
+      style={{ backgroundImage: "url('/partners/blue-bg.jpg')" }}
+    >
       <div className="text-center text-white max-w-3xl mx-auto mb-12">
         <h2 className="text-2xl md:text-4xl font-bold mb-3">
           Our Charitable Initiatives

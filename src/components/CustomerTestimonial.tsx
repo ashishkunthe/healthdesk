@@ -35,7 +35,7 @@ const testimonials = [
 
 export function CustomerTestimonial() {
   return (
-    <div className="py-20 px-6 md:px-10 bg-white text-center">
+    <div className="py-6 px-6 md:px-10 bg-white text-center">
       <h2 className="text-3xl md:text-4xl font-bold mb-14">
         Verified Customer Testimonials
       </h2>

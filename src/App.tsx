@@ -5,7 +5,7 @@ import { Footer } from "./components/Footer";
 import { HealthCareDesk } from "./components/HealthCareDesk";
 import { HeroSection } from "./components/HeroSection";
 import { Navbar } from "./components/Navbar";
-import { CharitableInitiatives } from "./components/Partners";
+import { CharitableInitiatives } from "./components/CharitableInitiatives";
 import { Solutions } from "./components/Solutions";
 
 function App() {
