@@ -1,7 +1,7 @@
 export function HeroSection() {
   return (
     <div className="w-full bg-[#ffffff] py-10 px-10">
-      <div className="max-w-8xl mx-auto flex flex-col md:flex-row items-center bg-[#dddddd]">
+      <div className="max-w-8xl mx-auto flex flex-col md:flex-row items-center bg-[#eeebeb]">
         <div className="flex-1 ml-10">
           <h1 className="text-5xl font-bold leading-tight mb-6">
             Health Desk Clinic: <br /> All Natural Supplements
